@@ -10,6 +10,11 @@ Test header text.::
     print 'hello
     >> hello
 
+Test image:
+
+.. image:: `Untitled Diagram.jpg'
+   :width: 40pt
+
 Guide
 ^^^^^
 
