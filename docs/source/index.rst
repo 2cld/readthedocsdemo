@@ -12,7 +12,7 @@ Test header text.::
 
 Test image:
 
-.. image:: `Untitled Diagram.jpg'
+.. image:: Diagram.jpg
    :width: 40pt
 
 Guide
